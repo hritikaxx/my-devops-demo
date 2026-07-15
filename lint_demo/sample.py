@@ -1,3 +1,6 @@
+import random
+tax = 5
+
 import os
 import math
 
